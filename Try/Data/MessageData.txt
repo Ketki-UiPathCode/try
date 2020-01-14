@@ -1,0 +1,101 @@
+Hi Pratyush,
+
+ 
+
+As discussed, please find the below details for RPA development.
+
+ 
+
+Url: https://apidev.aconex.com/Logon
+
+UserName: pmis
+
+Password: 123abc321@
+
+ 
+
+Project Name (Select from search bar)
+
+Hotel VIP Resort
+
+Type
+
+Drawing
+
+Review Status
+
+Pending
+
+Status 
+
+For Approval
+
+filetype:
+
+pdf
+
+Date Range
+
+Revision Date – between - 11/07/2010 - 13/07/2010
+
+Select all results 
+
+ 
+
+Tools – zip download
+
+ 
+
+ 
+
+Rename the file with – Hotel VIP Resort__Drawing_For Approval
+
+ 
+
+Reply me back with the zip file attachment.
+
+ 
+
+Body:
+
+Hi Yahya,
+
+ 
+
+Please find the attached drawings for your approval.
+
+ 
+
+Thanks & Regards,
+
+Yahya Narvel
+
+Sr. Business Analyst - Digital Solutions, Oracle Tech Group
+
+ 
+
+ <http://www.lntinfotech.com/> 
+
+ 
+
+Larsen & Toubro Infotech Ltd.
+
+Mind Space SEZ (Serene Properties), Bldg No. 9(7th Floor),
+
+Thane Belapur Road, Airoli, Navi Mumbai 400 708, India
+
+T +91 (22) 6168-5172|  C +91 9890247444
+
+ 
+
+ <http://www.larsentoubro.com/> 
+
+ 
+
+ <https://www.linkedin.com/company/l&t-infotech>           <https://twitter.com/LTI_Global>           <https://www.youtube.com/user/LarsenToubroInfotech> 
+
+ 
+
+Upcoming OOO :
+
+ 
